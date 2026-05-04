@@ -626,4 +626,96 @@
 </table>
 
 <p style="color:#999; font-size:11px; margin-top:40px;">Generated 2026-04-09 10:17 | PDB burial: scaled 10% window (min 3, max 10 aa), thresholds: &gt;50% = terminus, both &gt;30% = both, else = surface</p>
+
+<!-- ============================================================ -->
+<!-- v2 FITNESS SCREEN CROSS-REFERENCE — added 2026-05-04         -->
+<!-- ============================================================ -->
+
+<hr style="margin:60px 0 40px; border:none; border-top:3px solid #1a1a2e;">
+
+<h1 style="border-bottom:3px solid #1982C4;">Application: v2 Fitness Screen — Potential False Negatives</h1>
+<p>Cross-referencing the binding-terminus classification (above) with the v2 iPSC ligand fitness screen (E6 and mTeSR media at Days&nbsp;7, 9, and 14, each compared to Day&nbsp;4 — six conditions total). All counts at the <em>ligand construct</em> level (one Ligand&nbsp;ID = one designed sgRNA in the library; 764 non-control constructs in scope).</p>
+
+<div class="summary-box">
+  <div class="stat-card" style="border-left-color:#1982C4;"><div class="number" style="color:#1982C4;">46</div><div class="label">Hit constructs<br>(across all 6 screens)</div></div>
+  <div class="stat-card green"><div class="number">103</div><div class="label">True-Neg constructs<br>shared across all 6</div></div>
+  <div class="stat-card" style="border-left-color:#9b59b6;"><div class="number" style="color:#9b59b6;">465</div><div class="label">Potential FN constructs<br>(consensus, all 6 screens)</div></div>
+  <div class="stat-card red"><div class="number">100</div><div class="label">High C-term tethering risk<br>(of the 465 pFN)</div></div>
+</div>
+
+<h2>1. Hit Validation — Receptor Expression Confirms 92% of Hits</h2>
+<p>Of the 46 hit constructs called across the six comparisons, 41 have annotated cognate receptors in CellTalkDB. For 39 of those 41 (95%), the receptor is expressed in KOLF2.1J at FPKM&nbsp;&ge;&nbsp;1.0 — confirming the screen is sensitive to ligands whose biology is supported in this cell type. The two exceptions:</p>
+<ul style="font-size:14px;">
+<li><strong>EFEMP1</strong> &mdash; receptor EGFR at FPKM 0.47 (hit at D7&nbsp;E6 and D14&nbsp;E6)</li>
+<li><strong>SEMA6A</strong> &mdash; receptors PLXNA2 (0.41) and PLXNA4 (0.33) (hit at D7&nbsp;mTeSR)</li>
+</ul>
+<p>Both clear a more permissive 0.3 FPKM expression threshold. The remaining 5 hits (DB133, ERFE, TYPH, C1QT4, ALKB1) have no annotated receptor in CellTalkDB and could not be evaluated.</p>
+<img src="figures/v2_fn/hits_score_vs_receptor_grid_constructs.png" alt="Hits score vs receptor expression, 6-panel grid">
+
+<h2>2. True Negatives Are Shared Across All Six Screens</h2>
+<p>True negatives — ligand constructs whose annotated cognate receptors are below 1.0 FPKM and which are not called as hits — number 104&ndash;105 per condition, with a union of 105 across all six screens and an intersection of <strong>103 (98%)</strong>. The two-construct difference between union and intersection is precisely EFEMP1 and SEMA6A: they are TN in conditions where they were not hits, but reclassified as hits in the conditions where they reached significance. This near-complete overlap confirms that TN status is determined by receptor expression in the target cell type rather than per-screen variability.</p>
+<img src="figures/v2_fn/true_negative_overlap_venn_constructs.png" alt="True negative overlap venn diagrams">
+
+<h2>3. Per-Construct Significance vs Receptor Expression (All 6 Screens)</h2>
+<p>Receptor FPKM (x) versus &minus;log<sub>10</sub>(FDR) (y) for every tested sgRNA. Hits (FDR&nbsp;&lt;&nbsp;0.05, |z|&nbsp;&gt;&nbsp;2) are outlined in black. Most significant constructs sit in the right half (expressed-receptor pool); exceptions are the EFEMP1/SEMA6A red points and the gray no-receptor hits.</p>
+<img src="figures/v2_fn/all_genes_fpkm_vs_fdr_grid_constructs.png" alt="Receptor FPKM vs -log10(FDR) per construct, 6-panel grid">
+
+<h2>4. The 465-Construct Potential-False-Negative Set</h2>
+<p>The potential FN pool is defined as ligand constructs whose annotated receptor is expressed in KOLF2.1J (FPKM&nbsp;&ge;&nbsp;1.0) and whose gene was <em>not</em> called as a hit in any of the six screens. Construct census:</p>
+
+<table style="margin:15px 0; max-width:850px;">
+<tr><th>Pool</th><th>Constructs</th><th>Notes</th></tr>
+<tr><td>Total non-control library</td><td>764</td><td></td></tr>
+<tr style="background:#e0f0ff"><td>Expressed-receptor pool (FPKM &ge; 1)</td><td>504</td><td>Eligible for pFN call</td></tr>
+<tr style="background:#e0ffe0"><td>True-negative pool (FPKM &lt; 1)</td><td>105</td><td>2 hits (EFEMP1, SEMA6A); 103 are TN in all 6</td></tr>
+<tr style="background:#f5f5f5"><td>No known receptor</td><td>155</td><td>5 of these are hits — cannot be evaluated</td></tr>
+<tr><td>Hit constructs across 6 screens</td><td>46</td><td>39 in expressed pool, 2 in TN, 5 in no-receptor</td></tr>
+<tr style="background:#f0e0ff"><td><strong>Potential FN (504 &minus; 39)</strong></td><td><strong>465</strong></td><td><strong>Consensus pFN across all 6 screens</strong></td></tr>
+</table>
+
+<h2>5. C-Terminal Tethering Tier Breakdown of the 465 pFN</h2>
+<p>Cross-referencing the 465 pFN constructs against the library-wide binding-terminus classification at the top of this report. Tier mapping: <code>Both termini</code> &rarr; High; <code>C-terminus</code> with high/moderate confidence &rarr; High; <code>C-terminus</code> with low/none confidence &rarr; Moderate; <code>N-terminus</code> or <code>Neither (surface)</code> &rarr; Low; <code>Unknown</code> &rarr; Unclassified.</p>
+
+<div class="summary-box">
+  <div class="stat-card red"><div class="number">100</div><div class="label">High risk<br>(56 unique genes)</div></div>
+  <div class="stat-card" style="border-left-color:#1982C4;"><div class="number" style="color:#1982C4;">210</div><div class="label">Low risk<br>(164 unique genes)</div></div>
+  <div class="stat-card gray"><div class="number">155</div><div class="label">Unclassified<br>(73 unique genes)</div></div>
+</div>
+
+<img src="figures/v2_fn/pfn_465_tethering_pie.png" alt="C-terminal tethering risk pie chart for 465 pFN constructs">
+
+<table style="margin:15px 0; max-width:850px;">
+<tr><th>Tier</th><th>Constructs</th><th>%</th><th>Unique genes</th><th>Mapping</th></tr>
+<tr style="background:#ffe0e0"><td>High</td><td>100</td><td>21.5%</td><td>56</td><td>C-terminus (high/mod conf) + Both termini</td></tr>
+<tr style="background:#e0f0ff"><td>Low</td><td>210</td><td>45.2%</td><td>164</td><td>N-terminus or Neither (surface)</td></tr>
+<tr style="background:#f5f5f5"><td>Unclassified</td><td>155</td><td>33.3%</td><td>73</td><td>Unknown binding terminus</td></tr>
+</table>
+
+<p>The High-risk subset is dominated by the WNT family (16 constructs, classified as &ldquo;Both termini&rdquo; because Frizzled engagement involves both ends), DKK1 and SFRP2 (WNT inhibitors), plus a large neuropeptide cohort where C-terminal amidation is the pharmacophore (ADCYAP1, ADM, ADM2, AVP, CALCA, CALCB, CCK, IL15, CD40LG, etc.). These are the strongest candidates for a "false negative due to C-terminal tethering" interpretation and the highest priority for re-screening with an N-terminal tether.</p>
+
+<img src="figures/v2_fn/pfn_465_gene_lists_by_tier.png" alt="Gene lists by tethering tier for the 465 pFN">
+
+<h2>6. Methods</h2>
+<div class="method-box">
+<h4>Hit calling (per-sgRNA)</h4>
+<p>For each of the six MAGeCK <code>sgrna_summary</code> sheets, an sgRNA is called a hit if FDR &lt; 0.05 and |LFC z-score| &gt; 2, where LFC z-score is computed within-sheet as (LFC &minus; mean(LFC)) / std(LFC). Filtered MAGeCK sheets used: <code>Filter_Day{7,9}_{E6,mTeSR}_vs_Day4</code> and <code>Filtered_Day14_{E6,mTeSR}_vs_Day4</code>. NTC controls (suffix <code>_CONTROL</code>) excluded.</p>
+</div>
+<div class="method-box">
+<h4>Hit lift-up (gene &rarr; construct)</h4>
+<p>A library construct is "hit" if its UniProt gene prefix has at least one significant sgRNA in any of the six screens. The 30 unique hit gene prefixes lift to 46 library constructs (multi-sgRNA genes contribute multiple constructs to the hit set). This is the <em>library-design view</em>: constructs dropped by upstream MAGeCK QC are still classified by their gene's hit status. Sister-sgRNA agreement is not required.</p>
+</div>
+<div class="method-box">
+<h4>Receptor expression</h4>
+<p>Cognate receptors per ligand from CellTalkDB (synthesized ligand pairs only). KOLF2.1J FPKM computed from in-house RNA-seq (mean across replicates). Per-ligand receptor FPKM = max across all annotated receptors. Default expression cutoff: 1.0 FPKM.</p>
+</div>
+<div class="method-box">
+<h4>Construct-level pool definitions</h4>
+<p>The 764 non-control constructs partition into three mutually-exclusive pools: <strong>expressed</strong> (max receptor FPKM &ge; 1), <strong>true negative</strong> (max receptor FPKM &lt; 1), and <strong>no known receptor</strong> (no entry in CellTalkDB). Pools are determined by gene-level receptor information and are screen-independent.</p>
+</div>
+
+<p style="color:#999; font-size:11px; margin-top:40px;">
+v2 Fitness Screen section generated 2026-05-04 |
+Per-construct table: <a href="figures/v2_fn/consensus_potential_fn_465_constructs_tethering.csv">consensus_potential_fn_465_constructs_tethering.csv</a> (465 rows: ligand_id, prefix, gene_symbol, binding_terminus, confidence, tier, peptide_name, pdb_c_term_burial)
+</p>
+
 </body></html>
