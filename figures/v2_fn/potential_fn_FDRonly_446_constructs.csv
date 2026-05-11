@@ -1,0 +1,447 @@
+Ligand ID,Entry Name,prefix,Top Gene Name,binding_terminus,confidence,tier
+GS0001,A4_HUMAN,A4,APP,Unknown,none,Unclassified
+GS0002,A4_HUMAN,A4,APP,Unknown,none,Unclassified
+GS0003,A4_HUMAN,A4,APP,Unknown,none,Unclassified
+GS0004,A4_HUMAN,A4,APP,Unknown,none,Unclassified
+GS0005,A4_HUMAN,A4,APP,Unknown,none,Unclassified
+GS0006,A4_HUMAN,A4,APP,Unknown,none,Unclassified
+GS0010,ADIPO_HUMAN,ADIPO,ADIPOQ,Unknown,none,Unclassified
+GS0018,AMELX_HUMAN,AMELX,AMELX,Unknown,none,Unclassified
+GS0020,AMRP_HUMAN,AMRP,LRPAP1,Unknown,none,Unclassified
+GS0021,ANFB_HUMAN,ANFB,NPPB,Unknown,none,Unclassified
+GS0022,ANGL3_HUMAN,ANGL3,ANGPTL3,Unknown,none,Unclassified
+GS0023,ANGL3_HUMAN,ANGL3,ANGPTL3,Unknown,none,Unclassified
+GS0024,ANGL3_HUMAN,ANGL3,ANGPTL3,Unknown,none,Unclassified
+GS0026,APOA1_HUMAN,APOA1,APOA1,Unknown,none,Unclassified
+GS0028,APOA2_HUMAN,APOA2,APOA2,Unknown,none,Unclassified
+GS0029,APOA2_HUMAN,APOA2,APOA2,Unknown,none,Unclassified
+GS0031,AREG_HUMAN,AREG,AREG,Neither (structural surface),low,Low
+GS0032,ARTN_HUMAN,ARTN,ARTN,Neither (structural surface),high,Low
+GS0033,ASIP_HUMAN,ASIP,ASIP,Unknown,none,Unclassified
+GS0034,BDNF_HUMAN,BDNF,BDNF,Unknown,none,Unclassified
+GS0035,BMP1_HUMAN,BMP1,BMP1,Neither (structural surface),low,Low
+GS0036,BMP10_HUMAN,BMP10,BMP10,Neither (structural surface),moderate,Low
+GS0037,BMP15_HUMAN,BMP15,BMP15,Neither (structural surface),moderate,Low
+GS0038,BMP2_HUMAN,BMP2,BMP2,Neither (structural surface),moderate,Low
+GS0039,BMP3_HUMAN,BMP3,BMP3,Neither (structural surface),moderate,Low
+GS0040,BMP4_HUMAN,BMP4,BMP4,Neither (structural surface),moderate,Low
+GS0041,BMP5_HUMAN,BMP5,BMP5,Neither (structural surface),moderate,Low
+GS0043,BMP7_HUMAN,BMP7,BMP7,Neither (structural surface),moderate,Low
+GS0044,BMP8A_HUMAN,BMP8A,BMP8A,Neither (structural surface),moderate,Low
+GS0052,CCKN_HUMAN,CCKN,CCK,C-terminus,high,High
+GS0053,CCL11_HUMAN,CCL11,CCL11,N-terminus,moderate,Low
+GS0054,CCL13_HUMAN,CCL13,CCL13,N-terminus,moderate,Low
+GS0055,CCL13_HUMAN,CCL13,CCL13,N-terminus,moderate,Low
+GS0057,CCL14_HUMAN,CCL14,CCL14,N-terminus,moderate,Low
+GS0059,CCL16_HUMAN,CCL16,CCL16,N-terminus,moderate,Low
+GS0060,CCL19_HUMAN,CCL19,CCL19,N-terminus,moderate,Low
+GS0061,CCL2_HUMAN,CCL2,CCL2,N-terminus,moderate,Low
+GS0062,CCL21_HUMAN,CCL21,CCL21,N-terminus,moderate,Low
+GS0067,CCL25_HUMAN,CCL25,CCL25,N-terminus,moderate,Low
+GS0068,CCL27_HUMAN,CCL27,CCL27,N-terminus,moderate,Low
+GS0069,CCL28_HUMAN,CCL28,CCL28,N-terminus,moderate,Low
+GS0070,CCL7_HUMAN,CCL7,CCL7,N-terminus,moderate,Low
+GS0071,CCL8_HUMAN,CCL8,CCL8,N-terminus,moderate,Low
+GS0072,CCN3_HUMAN,CCN3,CCN3,Unknown,none,Unclassified
+GS0075,CD40L_HUMAN,CD40L,CD40LG,C-terminus,moderate,High
+GS0076,CD40L_HUMAN,CD40L,CD40LG,C-terminus,moderate,High
+GS0082,CER1_HUMAN,CER1,CER1,Neither (structural surface),low,Low
+GS0087,CKLF_HUMAN,CKLF,CKLF,N-terminus,moderate,Low
+GS0097,CLCF1_HUMAN,CLCF1,CLCF1,Neither (structural surface),low,Low
+GS0102,CNTF_HUMAN,CNTF,CNTF,Unknown,none,Unclassified
+GS0103,CO3_HUMAN,CO3,C3,Unknown,none,Unclassified
+GS0105,CO3_HUMAN,CO3,C3,Unknown,none,Unclassified
+GS0106,CO3_HUMAN,CO3,C3,Unknown,none,Unclassified
+GS0107,CO3_HUMAN,CO3,C3,Unknown,none,Unclassified
+GS0108,CO3_HUMAN,CO3,C3,Unknown,none,Unclassified
+GS0109,CO3_HUMAN,CO3,C3,Unknown,none,Unclassified
+GS0110,CO3_HUMAN,CO3,C3,Unknown,none,Unclassified
+GS0111,CO3_HUMAN,CO3,C3,Unknown,none,Unclassified
+GS0112,CO3_HUMAN,CO3,C3,Unknown,none,Unclassified
+GS0113,CO3_HUMAN,CO3,C3,Unknown,none,Unclassified
+GS0114,CO5_HUMAN,CO5,C5,Unknown,none,Unclassified
+GS0115,CO5_HUMAN,CO5,C5,Unknown,none,Unclassified
+GS0116,CO5_HUMAN,CO5,C5,Unknown,none,Unclassified
+GS0117,CO5_HUMAN,CO5,C5,Unknown,none,Unclassified
+GS0119,COLI_HUMAN,COLI,POMC,C-terminus,high,High
+GS0120,COLI_HUMAN,COLI,POMC,C-terminus,high,High
+GS0121,CSF1_HUMAN,CSF1,CSF1,Neither (structural surface),high,Low
+GS0122,CSF1_HUMAN,CSF1,CSF1,Neither (structural surface),high,Low
+GS0123,CSF1_HUMAN,CSF1,CSF1,Neither (structural surface),high,Low
+GS0124,CSF2_HUMAN,CSF2,CSF2,Neither (structural surface),high,Low
+GS0130,CTF1_HUMAN,CTF1,CTF1,Neither (structural surface),low,Low
+GS0131,CXCL5_HUMAN,CXCL5,CXCL5,Neither (structural surface),high,Low
+GS0132,CXCL6_HUMAN,CXCL6,CXCL6,N-terminus,moderate,Low
+GS0133,CXCL6_HUMAN,CXCL6,CXCL6,N-terminus,moderate,Low
+GS0134,CXCL7_HUMAN,CXCL7,PPBP,N-terminus,moderate,Low
+GS0135,CXCL7_HUMAN,CXCL7,PPBP,N-terminus,moderate,Low
+GS0137,CXCL7_HUMAN,CXCL7,PPBP,N-terminus,moderate,Low
+GS0138,CXCL7_HUMAN,CXCL7,PPBP,N-terminus,moderate,Low
+GS0139,CXCL7_HUMAN,CXCL7,PPBP,N-terminus,moderate,Low
+GS0140,CXCL9_HUMAN,CXCL9,CXCL9,N-terminus,moderate,Low
+GS0141,CXL10_HUMAN,CXL10,CXCL10,N-terminus,moderate,Low
+GS0142,CXL13_HUMAN,CXL13,CXCL13,N-terminus,moderate,Low
+GS0144,CXL16_HUMAN,CXL16,CXCL16,N-terminus,moderate,Low
+GS0145,CXL16_HUMAN,CXL16,CXCL16,N-terminus,moderate,Low
+GS0147,DKK1_HUMAN,DKK1,DKK1,Both termini,moderate,High
+GS0148,DLL1_HUMAN,DLL1,DLL1,N-terminus,moderate,Low
+GS0149,DLL4_HUMAN,DLL4,DLL4,N-terminus,moderate,Low
+GS0152,EDA_HUMAN,EDA,EDA,C-terminus,moderate,High
+GS0153,EDA_HUMAN,EDA,EDA,C-terminus,moderate,High
+GS0154,EFNA5_HUMAN,EFNA5,EFNA5,Unknown,none,Unclassified
+GS0160,EPO_HUMAN,EPO,EPO,Unknown,none,Unclassified
+GS0169,FGF10_HUMAN,FGF10,FGF10,Neither (structural surface),moderate,Low
+GS0170,FGF11_HUMAN,FGF11,FGF11,Neither (structural surface),moderate,Low
+GS0171,FGF12_HUMAN,FGF12,FGF12,Neither (structural surface),moderate,Low
+GS0172,FGF13_HUMAN,FGF13,FGF13,Neither (structural surface),moderate,Low
+GS0173,FGF14_HUMAN,FGF14,FGF14,Neither (structural surface),moderate,Low
+GS0175,FGF17_HUMAN,FGF17,FGF17,Neither (structural surface),moderate,Low
+GS0180,FGF21_HUMAN,FGF21,FGF21,Neither (structural surface),moderate,Low
+GS0182,FGF23_HUMAN,FGF23,FGF23,Neither (structural surface),high,Low
+GS0183,FGF23_HUMAN,FGF23,FGF23,Neither (structural surface),high,Low
+GS0188,FGF7_HUMAN,FGF7,FGF7,Neither (structural surface),moderate,Low
+GS0196,FSHB_HUMAN,FSHB,FSHB,Neither (structural surface),high,Low
+GS0197,G6PI_HUMAN,G6PI,GPI,Neither (structural surface),low,Low
+GS0198,GAS6_HUMAN,GAS6,GAS6,Neither (structural surface),moderate,Low
+GS0199,GDF1_HUMAN,GDF1,GDF1,Neither (structural surface),moderate,Low
+GS0200,GDF10_HUMAN,GDF10,GDF10,Neither (structural surface),moderate,Low
+GS0201,GDF11_HUMAN,GDF11,GDF11,Neither (structural surface),moderate,Low
+GS0202,GDF15_HUMAN,GDF15,GDF15,Neither (structural surface),moderate,Low
+GS0203,GDF2_HUMAN,GDF2,GDF2,Neither (structural surface),high,Low
+GS0205,GDF5_HUMAN,GDF5,GDF5,Neither (structural surface),moderate,Low
+GS0206,GDF6_HUMAN,GDF6,GDF6,Neither (structural surface),moderate,Low
+GS0207,GDF7_HUMAN,GDF7,GDF7,Neither (structural surface),moderate,Low
+GS0208,GDF8_HUMAN,GDF8,MSTN,Neither (structural surface),moderate,Low
+GS0209,GDF9_HUMAN,GDF9,GDF9,Neither (structural surface),moderate,Low
+GS0210,GDNF_HUMAN,GDNF,GDNF,Neither (structural surface),moderate,Low
+GS0213,GLHA_HUMAN,GLHA,CGA,Unknown,none,Unclassified
+GS0221,GREM1_HUMAN,GREM1,GREM1,Neither (structural surface),low,Low
+GS0224,HBEGF_HUMAN,HBEGF,HBEGF,Unknown,none,Unclassified
+GS0227,HGF_HUMAN,HGF,HGF,Unknown,none,Unclassified
+GS0228,HGF_HUMAN,HGF,HGF,Unknown,none,Unclassified
+GS0231,HMGB1_HUMAN,HMGB1,HMGB1,Unknown,none,Unclassified
+GS0233,HS71A_HUMAN,HS71A,HSPA1A,Unknown,none,Unclassified
+GS0235,IFN10_HUMAN,IFN10,IFNA10,Neither (structural surface),moderate,Low
+GS0237,IFN16_HUMAN,IFN16,IFNA16,Neither (structural surface),moderate,Low
+GS0238,IFN17_HUMAN,IFN17,IFNA17,Neither (structural surface),moderate,Low
+GS0239,IFN21_HUMAN,IFN21,IFNA21,Neither (structural surface),moderate,Low
+GS0240,IFNA1_HUMAN,IFNA1,IFNA1,Unknown,none,Unclassified
+GS0241,IFNA2_HUMAN,IFNA2,IFNA2,Neither (structural surface),high,Low
+GS0242,IFNA4_HUMAN,IFNA4,IFNA4,Neither (structural surface),moderate,Low
+GS0243,IFNA5_HUMAN,IFNA5,IFNA5,Neither (structural surface),moderate,Low
+GS0244,IFNA6_HUMAN,IFNA6,IFNA6,Neither (structural surface),moderate,Low
+GS0245,IFNA7_HUMAN,IFNA7,IFNA7,Neither (structural surface),moderate,Low
+GS0247,IFNB_HUMAN,IFNB,IFNB1,Neither (structural surface),moderate,Low
+GS0248,IFNE_HUMAN,IFNE,IFNE,Neither (structural surface),moderate,Low
+GS0249,IFNG_HUMAN,IFNG,IFNG,Neither (structural surface),high,Low
+GS0251,IFNL1_HUMAN,IFNL1,IFNL1,Neither (structural surface),moderate,Low
+GS0252,IFNL2_HUMAN,IFNL2,IFNL2,Neither (structural surface),moderate,Low
+GS0253,IFNL3_HUMAN,IFNL3,IFNL3,Neither (structural surface),moderate,Low
+GS0255,IFNW1_HUMAN,IFNW1,IFNW1,Neither (structural surface),high,Low
+GS0256,IL10_HUMAN,IL10,IL10,Neither (structural surface),low,Low
+GS0257,IL11_HUMAN,IL11,IL11,Neither (structural surface),high,Low
+GS0260,IL13_HUMAN,IL13,IL13,Neither (structural surface),low,Low
+GS0261,IL15_HUMAN,IL15,IL15,C-terminus,high,High
+GS0262,IL16_HUMAN,IL16,IL16,Neither (structural surface),low,Low
+GS0263,IL17_HUMAN,IL17,IL17A,Neither (structural surface),low,Low
+GS0264,IL17B_HUMAN,IL17B,IL17B,Neither (structural surface),low,Low
+GS0265,IL17C_HUMAN,IL17C,IL17C,Neither (structural surface),low,Low
+GS0268,IL18_HUMAN,IL18,IL18,Neither (structural surface),low,Low
+GS0270,IL1A_HUMAN,IL1A,IL1A,Neither (structural surface),low,Low
+GS0271,IL1B_HUMAN,IL1B,IL1B,Neither (structural surface),low,Low
+GS0274,IL2_HUMAN,IL2,IL2,Neither (structural surface),low,Low
+GS0277,IL22_HUMAN,IL22,IL22,Neither (structural surface),low,Low
+GS0279,IL24_HUMAN,IL24,IL24,Neither (structural surface),low,Low
+GS0280,IL25_HUMAN,IL25,IL25,Neither (structural surface),high,Low
+GS0281,IL26_HUMAN,IL26,IL26,Neither (structural surface),low,Low
+GS0282,IL27A_HUMAN,IL27A,IL27,Neither (structural surface),low,Low
+GS0283,IL27B_HUMAN,IL27B,EBI3,Neither (structural surface),low,Low
+GS0284,IL3_HUMAN,IL3,IL3,Neither (structural surface),low,Low
+GS0296,IL4_HUMAN,IL4,IL4,Neither (structural surface),low,Low
+GS0299,IL6_HUMAN,IL6,IL6,Neither (structural surface),high,Low
+GS0301,IL8_HUMAN,IL8,CXCL8,N-terminus,moderate,Low
+GS0302,IL8_HUMAN,IL8,CXCL8,N-terminus,moderate,Low
+GS0305,INHBA_HUMAN,INHBA,INHBA,Neither (structural surface),moderate,Low
+GS0306,INHBA_HUMAN,INHBA,INHBA,Neither (structural surface),moderate,Low
+GS0307,INHBB_HUMAN,INHBB,INHBB,Neither (structural surface),moderate,Low
+GS0308,INHBB_HUMAN,INHBB,INHBB,Neither (structural surface),moderate,Low
+GS0309,INHBC_HUMAN,INHBC,INHBC,Neither (structural surface),moderate,Low
+GS0310,INHBE_HUMAN,INHBE,INHBE,Neither (structural surface),moderate,Low
+GS0311,INS_HUMAN,INS,INS,Unknown,none,Unclassified
+GS0312,INSL3_HUMAN,INSL3,INSL3,Unknown,none,Unclassified
+GS0314,INSL5_HUMAN,INSL5,INSL5,Unknown,none,Unclassified
+GS0317,JAG1_HUMAN,JAG1,JAG1,N-terminus,moderate,Low
+GS0318,JAG2_HUMAN,JAG2,JAG2,N-terminus,moderate,Low
+GS0320,LACRT_HUMAN,LACRT,LACRT,Unknown,none,Unclassified
+GS0321,LEG1_HUMAN,LEG1,LGALS1,Unknown,none,Unclassified
+GS0324,LFTY1_HUMAN,LFTY1,LEFTY1,Neither (structural surface),moderate,Low
+GS0325,LFTY2_HUMAN,LFTY2,LEFTY2,Neither (structural surface),moderate,Low
+GS0326,LIF_HUMAN,LIF,LIF,Neither (structural surface),low,Low
+GS0327,LSHB_HUMAN,LSHB,LHB,Unknown,none,Unclassified
+GS0337,MIF_HUMAN,MIF,MIF,Neither (structural surface),low,Low
+GS0339,MIS_HUMAN,MIS,AMH,Unknown,none,Unclassified
+GS0340,MK_HUMAN,MK,MDK,Unknown,none,Unclassified
+GS0346,NEU1_HUMAN,NEU1,OXT,C-terminus,high,High
+GS0347,NEU2_HUMAN,NEU2,AVP,C-terminus,high,High
+GS0348,NGF_HUMAN,NGF,NGF,Unknown,none,Unclassified
+GS0349,NODAL_HUMAN,NODAL,NODAL,Neither (structural surface),moderate,Low
+GS0352,NRG3_HUMAN,NRG3,NRG3,Unknown,none,Unclassified
+GS0354,NTF3_HUMAN,NTF3,NTF3,Unknown,none,Unclassified
+GS0355,NTF4_HUMAN,NTF4,NTF4,Unknown,none,Unclassified
+GS0356,ONCM_HUMAN,ONCM,OSM,Neither (structural surface),low,Low
+GS0359,OSTP_HUMAN,OSTP,SPP1,Neither (structural surface),low,Low
+GS0360,PD1L1_HUMAN,PD1L1,CD274,Unknown,none,Unclassified
+GS0361,PDGFA_HUMAN,PDGFA,PDGFA,Unknown,none,Unclassified
+GS0362,PDGFB_HUMAN,PDGFB,PDGFB,Unknown,none,Unclassified
+GS0363,PDGFC_HUMAN,PDGFC,PDGFC,Unknown,none,Unclassified
+GS0364,PDGFD_HUMAN,PDGFD,PDGFD,Unknown,none,Unclassified
+GS0365,PDGFD_HUMAN,PDGFD,PDGFD,Unknown,none,Unclassified
+GS0368,PLGF_HUMAN,PLGF,PGF,Unknown,none,Unclassified
+GS0370,PROK1_HUMAN,PROK1,PROK1,Unknown,none,Unclassified
+GS0371,PSPN_HUMAN,PSPN,PSPN,Neither (structural surface),moderate,Low
+GS0372,PTHY_HUMAN,PTHY,PTH,Unknown,none,Unclassified
+GS0373,PTN_HUMAN,PTN,PTN,Unknown,none,Unclassified
+GS0380,REL2_HUMAN,REL2,RLN2,Unknown,none,Unclassified
+GS0381,REL3_HUMAN,REL3,RLN3,Neither (structural surface),high,Low
+GS0382,RETN_HUMAN,RETN,RETN,Unknown,none,Unclassified
+GS0384,S10A4_HUMAN,S10A4,S100A4,Unknown,none,Unclassified
+GS0385,SCF_HUMAN,SCF,KITLG,Unknown,none,Unclassified
+GS0388,SEM3A_HUMAN,SEM3A,SEMA3A,Neither (structural surface),moderate,Low
+GS0389,SEM3B_HUMAN,SEM3B,SEMA3B,Neither (structural surface),moderate,Low
+GS0390,SEM3C_HUMAN,SEM3C,SEMA3C,Neither (structural surface),moderate,Low
+GS0391,SEM3D_HUMAN,SEM3D,SEMA3D,Neither (structural surface),moderate,Low
+GS0392,SEM3E_HUMAN,SEM3E,SEMA3E,Neither (structural surface),moderate,Low
+GS0393,SEM3F_HUMAN,SEM3F,SEMA3F,Neither (structural surface),moderate,Low
+GS0394,SEM3G_HUMAN,SEM3G,SEMA3G,Neither (structural surface),moderate,Low
+GS0395,SEM4A_HUMAN,SEM4A,SEMA4A,Neither (structural surface),moderate,Low
+GS0397,SEM4C_HUMAN,SEM4C,SEMA4C,Neither (structural surface),moderate,Low
+GS0398,SEM4D_HUMAN,SEM4D,SEMA4D,Neither (structural surface),moderate,Low
+GS0399,SEM4F_HUMAN,SEM4F,SEMA4F,Neither (structural surface),moderate,Low
+GS0400,SEM4G_HUMAN,SEM4G,SEMA4G,Neither (structural surface),moderate,Low
+GS0401,SEM5A_HUMAN,SEM5A,SEMA5A,Neither (structural surface),moderate,Low
+GS0406,SEM6D_HUMAN,SEM6D,SEMA6D,Neither (structural surface),moderate,Low
+GS0407,SEM7A_HUMAN,SEM7A,SEMA7A,Neither (structural surface),moderate,Low
+GS0408,SFRP2_HUMAN,SFRP2,SFRP2,Both termini,moderate,High
+GS0409,SG3A1_HUMAN,SG3A1,SCGB3A1,Neither (structural surface),low,Low
+GS0411,SHH_HUMAN,SHH,SHH,Neither (structural surface),high,Low
+GS0426,TGFB1_HUMAN,TGFB1,TGFB1,Neither (structural surface),high,Low
+GS0427,TGFB2_HUMAN,TGFB2,TGFB2,Neither (structural surface),moderate,Low
+GS0428,TGFB2_HUMAN,TGFB2,TGFB2,Neither (structural surface),moderate,Low
+GS0429,TGFB3_HUMAN,TGFB3,TGFB3,Neither (structural surface),moderate,Low
+GS0430,TGFB3_HUMAN,TGFB3,TGFB3,Neither (structural surface),moderate,Low
+GS0432,THRB_HUMAN,THRB,F2,Unknown,none,Unclassified
+GS0433,THRB_HUMAN,THRB,F2,Unknown,none,Unclassified
+GS0434,THRB_HUMAN,THRB,F2,Unknown,none,Unclassified
+GS0435,TIMP1_HUMAN,TIMP1,TIMP1,Unknown,none,Unclassified
+GS0436,TN13B_HUMAN,TN13B,TNFSF13B,Neither (structural surface),high,Low
+GS0437,TNF10_HUMAN,TNF10,TNFSF10,Neither (structural surface),high,Low
+GS0438,TNF11_HUMAN,TNF11,TNFSF11,C-terminus,moderate,High
+GS0439,TNF12_HUMAN,TNF12,TNFSF12,C-terminus,moderate,High
+GS0440,TNF13_HUMAN,TNF13,TNFSF13,C-terminus,moderate,High
+GS0441,TNF14_HUMAN,TNF14,TNFSF14,Neither (structural surface),high,Low
+GS0442,TNF15_HUMAN,TNF15,TNFSF15,C-terminus,moderate,High
+GS0443,TNF18_HUMAN,TNF18,TNFSF18,Neither (structural surface),high,Low
+GS0444,TNFA_HUMAN,TNFA,TNF,C-terminus,moderate,High
+GS0445,TNFB_HUMAN,TNFB,LTA,C-terminus,moderate,High
+GS0446,TNFC_HUMAN,TNFC,LTB,C-terminus,moderate,High
+GS0447,TNFL4_HUMAN,TNFL4,TNFSF4,C-terminus,moderate,High
+GS0448,TNFL6_HUMAN,TNFL6,FASLG,Neither (structural surface),high,Low
+GS0449,TNFL6_HUMAN,TNFL6,FASLG,Neither (structural surface),high,Low
+GS0450,TNFL6_HUMAN,TNFL6,FASLG,Neither (structural surface),high,Low
+GS0451,TNFL8_HUMAN,TNFL8,TNFSF8,C-terminus,moderate,High
+GS0452,TNFL9_HUMAN,TNFL9,TNFSF9,C-terminus,moderate,High
+GS0455,TSHB_HUMAN,TSHB,TSHB,Unknown,none,Unclassified
+GS0463,VEGFB_HUMAN,VEGFB,VEGFB,Unknown,none,Unclassified
+GS0464,VEGFC_HUMAN,VEGFC,VEGFC,Unknown,none,Unclassified
+GS0465,VEGFD_HUMAN,VEGFD,VEGFD,Unknown,none,Unclassified
+GS0469,WNT1_HUMAN,WNT1,WNT1,Both termini,moderate,High
+GS0470,WNT11_HUMAN,WNT11,WNT11,Both termini,moderate,High
+GS0471,WNT16_HUMAN,WNT16,WNT16,Both termini,moderate,High
+GS0472,WNT2_HUMAN,WNT2,WNT2,Both termini,moderate,High
+GS0473,WNT3_HUMAN,WNT3,WNT3,Both termini,moderate,High
+GS0474,WNT3A_HUMAN,WNT3A,WNT3A,Both termini,moderate,High
+GS0475,WNT4_HUMAN,WNT4,WNT4,Both termini,moderate,High
+GS0476,WNT5A_HUMAN,WNT5A,WNT5A,Both termini,moderate,High
+GS0478,WNT6_HUMAN,WNT6,WNT6,Both termini,moderate,High
+GS0479,WNT7A_HUMAN,WNT7A,WNT7A,Both termini,moderate,High
+GS0481,WNT8A_HUMAN,WNT8A,WNT8A,Both termini,moderate,High
+GS0482,WNT8B_HUMAN,WNT8B,WNT8B,Both termini,moderate,High
+GS0487,XCL1_HUMAN,XCL1,XCL1,Neither (structural surface),low,Low
+OG0002,KNG1_HUMAN,KNG1,KNG1,Unknown,none,Unclassified
+OG0003,COLI_HUMAN,COLI,POMC,C-terminus,high,High
+OG0004,NEUT_HUMAN,NEUT,NTS,Unknown,none,Unclassified
+OG0005,NEUT_HUMAN,NEUT,NTS,Unknown,none,Unclassified
+OG0007,ANGT_HUMAN,ANGT,AGT,Unknown,none,Unclassified
+OG0009,ANGT_HUMAN,ANGT,AGT,Unknown,none,Unclassified
+OG0010,PENK_HUMAN,PENK,PENK,Unknown,none,Unclassified
+OG0011,ANGT_HUMAN,ANGT,AGT,Unknown,none,Unclassified
+OG0012,NPFF_HUMAN,NPFF,NPFF,C-terminus,high,High
+OG0013,PDYN_HUMAN,PDYN,PDYN,Unknown,none,Unclassified
+OG0014,PENK_HUMAN,PENK,PENK,Unknown,none,Unclassified
+OG0016,KNG1_HUMAN,KNG1,KNG1,Unknown,none,Unclassified
+OG0017,NEU1_HUMAN,NEU1,OXT,C-terminus,high,High
+OG0018,NEU2_HUMAN,NEU2,AVP,C-terminus,high,High
+OG0019,PDYN_HUMAN,PDYN,PDYN,Unknown,none,Unclassified
+OG0020,ANGT_HUMAN,ANGT,AGT,Unknown,none,Unclassified
+OG0023,GRP_HUMAN,GRP,GRP,C-terminus,high,High
+OG0024,KNG1_HUMAN,KNG1,KNG1,Unknown,none,Unclassified
+OG0026,PDYN_HUMAN,PDYN,PDYN,Unknown,none,Unclassified
+OG0027,TKN4_HUMAN,TKN4,TAC4,C-terminus,high,High
+OG0028,COLI_HUMAN,COLI,POMC,C-terminus,high,High
+OG0030,NPFF_HUMAN,NPFF,NPFF,C-terminus,high,High
+OG0033,APEL_HUMAN,APEL,APLN,Unknown,none,Unclassified
+OG0034,COLI_HUMAN,COLI,POMC,C-terminus,high,High
+OG0035,MCH_HUMAN,MCH,PMCH,C-terminus,high,High
+OG0036,NEUT_HUMAN,NEUT,NTS,Unknown,none,Unclassified
+OG0037,PDYN_HUMAN,PDYN,PDYN,Unknown,none,Unclassified
+OG0038,PDYN_HUMAN,PDYN,PDYN,Unknown,none,Unclassified
+OG0039,SMS_HUMAN,SMS,SST,C-terminus,high,High
+OG0040,GAST_HUMAN,GAST,GAST,C-terminus,high,High
+OG0041,KNG1_HUMAN,KNG1,KNG1,Unknown,none,Unclassified
+OG0046,SMS_HUMAN,SMS,SST,C-terminus,high,High
+OG0048,TKN4_HUMAN,TKN4,TAC4,C-terminus,high,High
+OG0050,CORT_HUMAN,CORT,CORT,Unknown,none,Unclassified
+OG0051,GAST_HUMAN,GAST,GAST,C-terminus,high,High
+OG0052,PDYN_HUMAN,PDYN,PDYN,Unknown,none,Unclassified
+OG0053,PNOC_HUMAN,PNOC,PNOC,Unknown,none,Unclassified
+OG0054,PNOC_HUMAN,PNOC,PNOC,Unknown,none,Unclassified
+OG0055,COLI_HUMAN,COLI,POMC,C-terminus,high,High
+OG0056,NPFF_HUMAN,NPFF,NPFF,C-terminus,high,High
+OG0058,MCH_HUMAN,MCH,PMCH,C-terminus,high,High
+OG0059,MCH_HUMAN,MCH,PMCH,C-terminus,high,High
+OG0060,ANF_HUMAN,ANF,NPPA,Unknown,none,Unclassified
+OG0063,PENK_HUMAN,PENK,PENK,Unknown,none,Unclassified
+OG0066,ANF_HUMAN,ANF,NPPA,Unknown,none,Unclassified
+OG0068,COLI_HUMAN,COLI,POMC,C-terminus,high,High
+OG0069,EDN1_HUMAN,EDN1,EDN1,Unknown,none,Unclassified
+OG0070,EDN2_HUMAN,EDN2,EDN2,Unknown,none,Unclassified
+OG0071,EDN3_HUMAN,EDN3,EDN3,Unknown,none,Unclassified
+OG0072,INS_HUMAN,INS,INS,Unknown,none,Unclassified
+OG0073,INSL5_HUMAN,INSL5,INSL5,Unknown,none,Unclassified
+OG0075,ANFC_HUMAN,ANFC,NPPC,Unknown,none,Unclassified
+OG0077,PENK_HUMAN,PENK,PENK,Unknown,none,Unclassified
+OG0078,ANF_HUMAN,ANF,NPPA,Unknown,none,Unclassified
+OG0080,ANF_HUMAN,ANF,NPPA,Unknown,none,Unclassified
+OG0081,ANF_HUMAN,ANF,NPPA,Unknown,none,Unclassified
+OG0082,INSL5_HUMAN,INSL5,INSL5,Unknown,none,Unclassified
+OG0084,ANF_HUMAN,ANF,NPPA,Unknown,none,Unclassified
+OG0085,ANF_HUMAN,ANF,NPPA,Unknown,none,Unclassified
+OG0089,INSL3_HUMAN,INSL3,INSL3,Unknown,none,Unclassified
+OG0093,GRP_HUMAN,GRP,GRP,C-terminus,high,High
+OG0094,PACA_HUMAN,PACA,ADCYAP1,C-terminus,high,High
+OG0095,SECR_HUMAN,SECR,SCT,C-terminus,high,High
+OG0097,ANF_HUMAN,ANF,NPPA,Unknown,none,Unclassified
+OG0098,APEL_HUMAN,APEL,APLN,Unknown,none,Unclassified
+OG0100,OREX_HUMAN,OREX,HCRT,C-terminus,high,High
+OG0101,SMS_HUMAN,SMS,SST,C-terminus,high,High
+OG0103,VIP_HUMAN,VIP,VIP,C-terminus,high,High
+OG0104,ANFC_HUMAN,ANFC,NPPC,Unknown,none,Unclassified
+OG0105,CORT_HUMAN,CORT,CORT,Unknown,none,Unclassified
+OG0106,GLUC_HUMAN,GLUC,GCG,C-terminus,high,High
+OG0107,PDYN_HUMAN,PDYN,PDYN,Unknown,none,Unclassified
+OG0108,ANF_HUMAN,ANF,NPPA,Unknown,none,Unclassified
+OG0109,COLI_HUMAN,COLI,POMC,C-terminus,high,High
+OG0111,GLUC_HUMAN,GLUC,GCG,C-terminus,high,High
+OG0113,INS_HUMAN,INS,INS,Unknown,none,Unclassified
+OG0115,PNOC_HUMAN,PNOC,PNOC,Unknown,none,Unclassified
+OG0116,A4_HUMAN,A4,APP,Unknown,none,Unclassified
+OG0117,APEL_HUMAN,APEL,APLN,Unknown,none,Unclassified
+OG0118,COLI_HUMAN,COLI,POMC,C-terminus,high,High
+OG0119,GLUC_HUMAN,GLUC,GCG,C-terminus,high,High
+OG0121,ANF_HUMAN,ANF,NPPA,Unknown,none,Unclassified
+OG0125,NMB_HUMAN,NMB,NMB,C-terminus,high,High
+OG0126,PDYN_HUMAN,PDYN,PDYN,Unknown,none,Unclassified
+OG0127,ANF_HUMAN,ANF,NPPA,Unknown,none,Unclassified
+OG0128,GLUC_HUMAN,GLUC,GCG,C-terminus,high,High
+OG0131,OREX_HUMAN,OREX,HCRT,C-terminus,high,High
+OG0132,PTHR_HUMAN,PTHR,PTHLH,Neither (structural surface),high,Low
+OG0134,GAST_HUMAN,GAST,GAST,C-terminus,high,High
+OG0135,IGF2_HUMAN,IGF2,IGF2,Unknown,none,Unclassified
+OG0136,PYY_HUMAN,PYY,PYY,C-terminus,high,High
+OG0137,INSL3_HUMAN,INSL3,INSL3,Unknown,none,Unclassified
+OG0138,APEL_HUMAN,APEL,APLN,Unknown,none,Unclassified
+OG0139,NPY_HUMAN,NPY,NPY,C-terminus,high,High
+OG0140,PAHO_HUMAN,PAHO,PPY,C-terminus,high,High
+OG0141,PTHR_HUMAN,PTHR,PTHLH,Neither (structural surface),high,Low
+OG0142,PYY_HUMAN,PYY,PYY,C-terminus,high,High
+OG0143,ANF_HUMAN,ANF,NPPA,Unknown,none,Unclassified
+OG0144,CALCA_HUMAN,CALCA,CALCA,C-terminus,high,High
+OG0145,CALCB_HUMAN,CALCB,CALCB,C-terminus,high,High
+OG0146,GLUC_HUMAN,GLUC,GCG,C-terminus,high,High
+OG0147,GLUC_HUMAN,GLUC,GCG,C-terminus,high,High
+OG0148,IAPP_HUMAN,IAPP,IAPP,C-terminus,high,High
+OG0150,EDN1_HUMAN,EDN1,EDN1,Unknown,none,Unclassified
+OG0151,PACA_HUMAN,PACA,ADCYAP1,C-terminus,high,High
+OG0152,UCN3_HUMAN,UCN3,UCN3,C-terminus,high,High
+OG0154,COLI_HUMAN,COLI,POMC,C-terminus,high,High
+OG0155,NEU2_HUMAN,NEU2,AVP,C-terminus,high,High
+OG0156,A4_HUMAN,A4,APP,Unknown,none,Unclassified
+OG0162,PENK_HUMAN,PENK,PENK,Unknown,none,Unclassified
+OG0163,UCN2_HUMAN,UCN2,UCN2,Unknown,none,Unclassified
+OG0164,A4_HUMAN,A4,APP,Unknown,none,Unclassified
+OG0165,GIP_HUMAN,GIP,GIP,Neither (structural surface),high,Low
+OG0166,VIP_HUMAN,VIP,VIP,C-terminus,high,High
+OG0169,OX26_HUMAN,OX26,QRFP,C-terminus,high,High
+OG0170,SLIB_HUMAN,SLIB,GHRH,C-terminus,high,High
+OG0172,EREG_HUMAN,EREG,EREG,Neither (structural surface),high,Low
+OG0173,ADM2_HUMAN,ADM2,ADM2,C-terminus,high,High
+OG0176,TKN4_HUMAN,TKN4,TAC4,C-terminus,high,High
+OG0178,PACA_HUMAN,PACA,ADCYAP1,C-terminus,high,High
+OG0180,A4_HUMAN,A4,APP,Unknown,none,Unclassified
+OG0181,AGRP_HUMAN,AGRP,AGRP,Unknown,none,Unclassified
+OG0184,TGFA_HUMAN,TGFA,TGFA,Unknown,none,Unclassified
+OG0185,ADML_HUMAN,ADML,ADM,C-terminus,high,High
+OG0186,GAST_HUMAN,GAST,GAST,C-terminus,high,High
+OG0187,ANFC_HUMAN,ANFC,NPPC,Unknown,none,Unclassified
+OG0189,GRN_HUMAN,GRN,GRN,Neither (structural surface),low,Low
+OG0190,PLF4_HUMAN,PLF4,PF4,N-terminus,moderate,Low
+OG0191,COLI_HUMAN,COLI,POMC,C-terminus,high,High
+OG0193,GRN_HUMAN,GRN,GRN,Neither (structural surface),low,Low
+OG0194,GRN_HUMAN,GRN,GRN,Neither (structural surface),low,Low
+OG0195,A4_HUMAN,A4,APP,Unknown,none,Unclassified
+OG0198,GRN_HUMAN,GRN,GRN,Neither (structural surface),low,Low
+OG0199,PTHR_HUMAN,PTHR,PTHLH,Neither (structural surface),high,Low
+OG0201,A4_HUMAN,A4,APP,Unknown,none,Unclassified
+OG0205,NRG4_HUMAN,NRG4,NRG4,Neither (structural surface),moderate,Low
+OG0210,CCL20_HUMAN,CCL20,CCL20,N-terminus,moderate,Low
+OG0212,CCL5_HUMAN,CCL5,CCL5,N-terminus,moderate,Low
+OG0214,SDF1_HUMAN,SDF1,CXCL12,N-terminus,moderate,Low
+OG0215,CCL14_HUMAN,CCL14,CCL14,N-terminus,moderate,Low
+OG0218,CCL5_HUMAN,CCL5,CCL5,N-terminus,moderate,Low
+OG0220,CXCL7_HUMAN,CXCL7,PPBP,N-terminus,moderate,Low
+OG0226,IGF2_HUMAN,IGF2,IGF2,Unknown,none,Unclassified
+OG0229,CCL5_HUMAN,CCL5,CCL5,N-terminus,moderate,Low
+OG0231,CXCL7_HUMAN,CXCL7,PPBP,N-terminus,moderate,Low
+OG0232,GROA_HUMAN,GROA,CXCL1,N-terminus,moderate,Low
+OG0235,CCL20_HUMAN,CCL20,CCL20,N-terminus,moderate,Low
+OG0239,CXCL2_HUMAN,CXCL2,CXCL2,N-terminus,moderate,Low
+OG0240,CXCL3_HUMAN,CXCL3,CXCL3,N-terminus,moderate,Low
+OG0241,CXCL6_HUMAN,CXCL6,CXCL6,N-terminus,moderate,Low
+OG0242,GLUC_HUMAN,GLUC,GCG,C-terminus,high,High
+OG0243,GROA_HUMAN,GROA,CXCL1,N-terminus,moderate,Low
+OG0244,IL8_HUMAN,IL8,CXCL8,N-terminus,moderate,Low
+OG0246,CCL20_HUMAN,CCL20,CCL20,N-terminus,moderate,Low
+OG0249,CXCL5_HUMAN,CXCL5,CXCL5,Neither (structural surface),high,Low
+OG0250,CXCL7_HUMAN,CXCL7,PPBP,N-terminus,moderate,Low
+OG0251,GROA_HUMAN,GROA,CXCL1,N-terminus,moderate,Low
+OG0252,IGF1_HUMAN,IGF1,IGF1,Unknown,none,Unclassified
+OG0253,IL8_HUMAN,IL8,CXCL8,N-terminus,moderate,Low
+OG0255,PLF4_HUMAN,PLF4,PF4,N-terminus,moderate,Low
+OG0256,SDF1_HUMAN,SDF1,CXCL12,N-terminus,moderate,Low
+OG0257,CCL14_HUMAN,CCL14,CCL14,N-terminus,moderate,Low
+OG0259,CCL17_HUMAN,CCL17,CCL17,N-terminus,moderate,Low
+OG0261,CCL8_HUMAN,CCL8,CCL8,N-terminus,moderate,Low
+OG0262,CXCL5_HUMAN,CXCL5,CXCL5,Neither (structural surface),high,Low
+OG0263,GAST_HUMAN,GAST,GAST,C-terminus,high,High
+OG0264,IL8_HUMAN,IL8,CXCL8,N-terminus,moderate,Low
+OG0266,CCL14_HUMAN,CCL14,CCL14,N-terminus,moderate,Low
+OG0268,FGF23_HUMAN,FGF23,FGF23,Neither (structural surface),high,Low
+OG0269,IL8_HUMAN,IL8,CXCL8,N-terminus,moderate,Low
+OG0273,CXCL2_HUMAN,CXCL2,CXCL2,N-terminus,moderate,Low
+OG0274,CXCL3_HUMAN,CXCL3,CXCL3,N-terminus,moderate,Low
+OG0275,CXCL7_HUMAN,CXCL7,PPBP,N-terminus,moderate,Low
+OG0276,CXL10_HUMAN,CXL10,CXCL10,N-terminus,moderate,Low
+OG0277,CXL11_HUMAN,CXL11,CXCL11,N-terminus,moderate,Low
+OG0278,GROA_HUMAN,GROA,CXCL1,N-terminus,moderate,Low
+OG0279,IL8_HUMAN,IL8,CXCL8,N-terminus,moderate,Low
+OG0280,PENK_HUMAN,PENK,PENK,Unknown,none,Unclassified
